@@ -1,12 +1,12 @@
 # 🤖 AI Agents
 
-> A hands-on exploration of production AI agent architectures — from single agents to multi-agent systems, MCP tooling, and cloud deployment.
+> A hands-on exploration of production AI agent architectures from single agents to multi agent systems, MCP tooling, and cloud deployment.
 
 ---
 
 ## Overview
 
-This repository documents my end-to-end learning journey building AI agents using the **Google Agent Development Kit (ADK)**. Each notebook covers a distinct concept in modern agentic system design, progressing from basic single-agent setups to full multi-agent deployments on Google Cloud.
+This repository documents my end to end learning journey building AI agents using the **Google Agent Development Kit (ADK)**. Each notebook covers a distinct concept in modern agentic system design, progressing from basic single agent setups to full multi agent deployments on Google Cloud.
 
 ---
 
